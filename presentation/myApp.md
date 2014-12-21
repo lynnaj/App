@@ -1,7 +1,7 @@
 Should you move to San Jose predictor app
 ========================================================
 author: Lynna Jirpongopas
-date: Sun Dec 21 11:21:24 2014
+date: Sun Dec 21 11:27:50 2014
 
 Introduction
 ========================================================
@@ -25,7 +25,7 @@ We make the following assumptions in our calculations:
 Score calculation
 ========================================================
 This is what a subset of the results from the 2014 survey looks like:
-![alt text](~/Github/App/presentation/sjScore.png)
+![alt text](sjScore.png)
 
 Each record shows the distribution of answers for each question.  For example, the first record shows that 19% of the San Jose residents who took the survey said that as a place to live, San Jose is excellent.
 
